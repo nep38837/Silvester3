@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"https:\/\/www.google.com\/",
-                 "type":"bool",
-                 "value":true
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/azala.info\/static\/index.html?game=DWHA"
                 }],
          "type":"tilelayer",
          "visible":true,
