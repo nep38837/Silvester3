@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Text",
+                 "name":"https:\/\/www.google.com\/",
                  "type":"string",
-                 "value":"Hier k\u00f6nnte Ihre Werbung stehen!\n"
+                 "value":"https:\/\/www.google.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
