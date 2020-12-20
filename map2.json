@@ -53,9 +53,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiroom",
+                 "type":"string",
+                 "value":"Yolo_CardsagainstHumanity"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/azala.info\/static\/index.html?game=DWHA"
+                 "value":"https:\/\/azala.info\/static\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
