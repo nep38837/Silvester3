@@ -55,7 +55,7 @@
                 {
                  "name":"Text",
                  "type":"string",
-                 "value":"Text"
+                 "value":"Hier k\u00f6nnte Ihre Werbung stehen!\n"
                 }],
          "type":"tilelayer",
          "visible":true,
