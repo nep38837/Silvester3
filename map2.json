@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/nep38837.github.io\/Silvester3\/Linkliste.txt"
+                 "value":"https:\/\/github.com\/nep38837\/Silvester3\/blob\/master\/Linkliste.txt"
                 }],
          "type":"tilelayer",
          "visible":true,
