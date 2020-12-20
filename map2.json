@@ -54,8 +54,8 @@
          "properties":[
                 {
                  "name":"https:\/\/www.google.com\/",
-                 "type":"string",
-                 "value":"https:\/\/www.google.com\/"
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
